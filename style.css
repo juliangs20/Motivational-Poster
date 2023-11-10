@@ -1,0 +1,24 @@
+#everything {
+  width: 50%;
+  margin-left: 25%;
+}
+html {
+  background: black;
+}
+#lighthouse {
+  width: 100%;
+  border: 5px solid white;
+  margin-top: 25px;
+}
+#main-quote {
+  font-family: "Libre Baskerville", serif;
+  color: white;
+  text-align: center;
+  text-transform: capitalize;
+}
+#end-quote {
+  font-family: "Libre Baskerville", serif;
+  color: white;
+  text-align: center;
+  text-transform: capitalize;
+}
